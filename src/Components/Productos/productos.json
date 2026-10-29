@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nombre": "PlayStation 5 Slim",
+    "precio": 549990,
+    "descripcion": "Consola de nueva generación con SSD ultrarápido, 1TB de almacenamiento y soporte para juegos en 4K a 120 FPS.",
+    "imagen": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600",
+    "categoria": "consola"
+  },
+  {
+    "id": 2,
+    "nombre": "Xbox Series X",
+    "precio": 499990,
+    "descripcion": "La consola más potente de Microsoft, con 12 TFLOPS de potencia gráfica, SSD de 1TB y Quick Resume.",
+    "imagen": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=600",
+    "categoria": "consola"
+  },
+  {
+    "id": 3,
+    "nombre": "Nintendo Switch OLED",
+    "precio": 349990,
+    "descripcion": "Consola híbrida con pantalla OLED de 7 pulgadas, 64GB de almacenamiento y modo portátil o dock.",
+    "imagen": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=600",
+    "categoria": "consola"
+  },
+  {
+    "id": 4,
+    "nombre": "Steam Deck OLED",
+    "precio": 599990,
+    "descripcion": "PC portátil de Valve con pantalla HDR OLED, 1TB de SSD y acceso a toda tu biblioteca de Steam.",
+    "imagen": "src/assets/imageProductos/Steam-Deck-OLED-screen-171996733.webp",
+    "categoria": "consola"
+  },
+  {
+    "id": 5,
+    "nombre": "Xbox Series S",
+    "precio": 299990,
+    "descripcion": "La consola digital más compacta de Xbox, ideal para gaming en 1440p con Game Pass.",
+    "imagen": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=600",
+    "categoria": "consola"
+  },
+  {
+    "id": 6,
+    "nombre": "Logitech G502 HERO",
+    "precio": 49990,
+    "descripcion": "Mouse gamer con sensor HERO 25K de 25.600 DPI, 11 botones programables y pesos ajustables.",
+    "imagen": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 7,
+    "nombre": "Razer BlackWidow V4",
+    "precio": 129990,
+    "descripcion": "Teclado mecánico con switches Razer Green, retroiluminación Chroma RGB y reposamuñecas magnético.",
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 8,
+    "nombre": "HyperX Cloud II",
+    "precio": 79990,
+    "descripcion": "Audífonos gamer con sonido envolvente 7.1 virtual, micrófono con cancelación de ruido y almohadillas de memory foam.",
+    "imagen": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 9,
+    "nombre": "Razer Huntsman Mini",
+    "precio": 99990,
+    "descripcion": "Teclado mecánico 60% con switches ópticos Razer, ideal para setups compactos y esports.",
+    "imagen": "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 10,
+    "nombre": "Logitech G Pro X Superlight",
+    "precio": 149990,
+    "descripcion": "Mouse inalámbrico ultraliviano de 63g con sensor HERO 25K, usado por pro players de esports.",
+    "imagen": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 11,
+    "nombre": "DualSense PS5",
+    "precio": 69990,
+    "descripcion": "Control inalámbrico para PS5 con gatillos adaptativos, respuesta háptica y micrófono integrado.",
+    "imagen": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 12,
+    "nombre": "Elgato Stream Deck MK.2",
+    "precio": 149990,
+    "descripcion": "Controlador con 15 teclas LCD personalizables para streaming, atajos y automatización.",
+    "imagen": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 13,
+    "nombre": "Secretlab TITAN Evo",
+    "precio": 449990,
+    "descripcion": "Silla gamer ergonómica con soporte lumbar ajustable, reposabrazos 4D y tapizado de cuero sintético.",
+    "imagen": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 14,
+    "nombre": "SteelSeries Arctis Nova Pro",
+    "precio": 349990,
+    "descripcion": "Audífonos inalámbricos premium con audio Hi-Res, ANC activo y batería intercambiable en caliente.",
+    "imagen": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600",
+    "categoria": "periferico"
+  },
+  {
+    "id": 15,
+    "nombre": "Elden Ring",
+    "precio": 59990,
+    "descripcion": "RPG de acción de mundo abierto creado por FromSoftware y George R. R. Martin. GOTY 2022.",
+    "imagen": "https://images.unsplash.com/photo-1653396280182-6f6a3b3d4b3a?w=600",
+    "categoria": "videojuego"
+  },
+  {
+    "id": 16,
+    "nombre": "The Legend of Zelda: Tears of the Kingdom",
+    "precio": 59990,
+    "descripcion": "Aventura épica de Nintendo para Switch con mundo abierto, físicas avanzadas y libertad total de exploración.",
+    "imagen": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?w=600",
+    "categoria": "videojuego"
+  },
+  {
+    "id": 17,
+    "nombre": "God of War Ragnarök",
+    "precio": 49990,
+    "descripcion": "Kratos y Atreus se enfrentan al Ragnarök en esta épica aventura nórdica para PlayStation.",
+    "imagen": "https://images.unsplash.com/photo-1657804222277-2c0f3d2c5b64?w=600",
+    "categoria": "videojuego"
+  },
+  {
+    "id": 18,
+    "nombre": "Cyberpunk 2077",
+    "precio": 39990,
+    "descripcion": "RPG de mundo abierto ambientado en Night City, con la expansión Phantom Liberty disponible.",
+    "imagen": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600",
+    "categoria": "videojuego"
+  },
+  {
+    "id": 19,
+    "nombre": "Red Dead Redemption 2",
+    "precio": 44990,
+    "descripcion": "Western de mundo abierto de Rockstar con una historia épica sobre la banda de Van der Linde.",
+    "imagen": "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600",
+    "categoria": "videojuego"
+  },
+  {
+    "id": 20,
+    "nombre": "Hollow Knight",
+    "precio": 14990,
+    "descripcion": "Metroidvania indie aclamado por su ambientación, dificultad y diseño de niveles en el reino de Hallownest.",
+    "imagen": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=600",
+    "categoria": "videojuego"
+  }
+]
