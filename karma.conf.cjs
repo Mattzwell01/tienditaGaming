@@ -25,6 +25,12 @@ function buscarChrome() {
   const rutasSistema = [
     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     "/Applications/Chromium.app/Contents/MacOS/Chromium",
+    "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe",
+    "/usr/bin/google-chrome",
+    "/usr/bin/google-chrome-stable",
+    "/usr/bin/chromium",
+    "/usr/bin/chromium-browser",
+    "/snap/bin/chromium"
   ];
 
   for (const ruta of rutasSistema) {
